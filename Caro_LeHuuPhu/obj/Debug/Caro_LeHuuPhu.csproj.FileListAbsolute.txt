@@ -1,0 +1,10 @@
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Caro_LeHuuPhu\Caro_LeHuuPhu\bin\Debug\Caro_LeHuuPhu.exe.config
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Caro_LeHuuPhu\Caro_LeHuuPhu\bin\Debug\Caro_LeHuuPhu.exe
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Caro_LeHuuPhu\Caro_LeHuuPhu\bin\Debug\Caro_LeHuuPhu.pdb
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Caro_LeHuuPhu\Caro_LeHuuPhu\obj\Debug\Caro_LeHuuPhu.csproj.AssemblyReference.cache
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Caro_LeHuuPhu\Caro_LeHuuPhu\obj\Debug\Caro_LeHuuPhu.Form1.resources
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Caro_LeHuuPhu\Caro_LeHuuPhu\obj\Debug\Caro_LeHuuPhu.Properties.Resources.resources
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Caro_LeHuuPhu\Caro_LeHuuPhu\obj\Debug\Caro_LeHuuPhu.csproj.GenerateResource.cache
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Caro_LeHuuPhu\Caro_LeHuuPhu\obj\Debug\Caro_LeHuuPhu.csproj.CoreCompileInputs.cache
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Caro_LeHuuPhu\Caro_LeHuuPhu\obj\Debug\Caro_LeHuuPhu.exe
+E:\HOCKY-I-NAM4\laptrinhtrongwindown\Caro_LeHuuPhu\Caro_LeHuuPhu\obj\Debug\Caro_LeHuuPhu.pdb
